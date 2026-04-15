@@ -1,5 +1,3 @@
--
-
 ## 🌟 About Me
 
 🎓 **B.Tech in Artificial Intelligence & Data Science** — 3rd Year Student at Jerusalem College of Engineering
