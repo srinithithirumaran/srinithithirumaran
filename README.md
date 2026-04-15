@@ -1,14 +1,14 @@
 ## 🌟 About Me
 
-🎓 **B.Tech in Artificial Intelligence & Data Science** — 3rd Year Student at Jerusalem College of Engineering
+**B.Tech in Artificial Intelligence & Data Science** — 3rd Year Student at Jerusalem College of Engineering
 
-🤖 I build AI-powered solutions to **real-world problems** — from fraud detection to intelligent support systems.
+I build AI-powered solutions to **real-world problems** — from fraud detection to intelligent support systems.
 
-🌱 Currently deepening my expertise in **Machine Learning**, **NLP**, and **full-stack AI application development**.
+Currently deepening my expertise in **Machine Learning**, **NLP**, and **full-stack AI application development**.
 
-🎯 Actively seeking opportunities in **open-source (GSSoC)**, **internships**, and **campus placements**.
+Actively seeking opportunities in **open-source (GSSoC)**, **internships**, and **campus placements**.
 
-💡 I believe in learning by building — every project teaches me something new.
+I believe in learning by building — every project teaches me something new.
 
 ---
 
@@ -61,7 +61,6 @@
 ## 🎯 Goals
 
 ```
-📌  Contribute to open-source projects through GSSoC 2025
 📌  Build end-to-end AI applications that solve real problems
 📌  Crack campus placements at a top tech/data company
 📌  Grow into a skilled ML Engineer / AI Developer
@@ -70,28 +69,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=srinithithirumaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinithithirumaran&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=srinithithirumaran&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🏅 Badges & Highlights
 
 <div align="center">
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square&logo=github)
 ![AI%20DS](https://img.shields.io/badge/AI%20%26%20Data%20Science-B.Tech-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square)
 
