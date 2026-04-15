@@ -1,14 +1,14 @@
-## 🌟 About Me
+##  About Me
 
-**B.Tech in Artificial Intelligence & Data Science** — 3rd Year Student at Jerusalem College of Engineering
+-**B.Tech in Artificial Intelligence & Data Science** — 3rd Year Student at Jerusalem College of Engineering
 
-I build AI-powered solutions to **real-world problems** — from fraud detection to intelligent support systems.
+-I build AI-powered solutions to **real-world problems** — from fraud detection to intelligent support systems.
 
-Currently deepening my expertise in **Machine Learning**, **NLP**, and **full-stack AI application development**.
+-Currently deepening my expertise in **Machine Learning**, **NLP**, and **full-stack AI application development**.
 
-Actively seeking opportunities in **open-source (GSSoC)**, **internships**, and **campus placements**.
+-Actively seeking opportunities in **open-source (GSSoC)**, **internships**, and **campus placements**.
 
-I believe in learning by building — every project teaches me something new.
+-I believe in learning by building — every project teaches me something new.
 
 ---
 
@@ -40,16 +40,16 @@ I believe in learning by building — every project teaches me something new.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 
-### 🕵️ Job Fraud Detection System
+###  Job Fraud Detection System
 > A machine learning model that identifies fraudulent job postings using features like job description patterns, company info, and salary anomalies — helping job seekers stay safe online.
 
 `Python` `Scikit-learn` `NLP` `Classification` `Data Analysis`
 
 
-### 🎫 AI Customer Support Ticket Classifier + Auto Reply System
+###  AI Customer Support Ticket Classifier + Auto Reply System
 > An intelligent NLP-powered system that automatically classifies incoming customer support tickets by category and urgency, and generates contextual auto-replies — reducing manual effort and response time.
 
 `Python` `NLP` `Flask` `Machine Learning` `Text Classification`
@@ -58,19 +58,19 @@ I believe in learning by building — every project teaches me something new.
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 ```
-📌  Build end-to-end AI applications that solve real problems
-📌  Crack campus placements at a top tech/data company
-📌  Grow into a skilled ML Engineer / AI Developer
-📌  Collaborate with developers across the globe
+-  Build end-to-end AI applications that solve real problems
+-  Crack campus placements at a top tech/data company
+-  Grow into a skilled ML Engineer / AI Developer
+-  Collaborate with developers across the globe
 ```
 
 ---
 
 
-## 🏅 Badges & Highlights
+## Badges & Highlights
 
 <div align="center">
 
@@ -81,7 +81,7 @@ I believe in learning by building — every project teaches me something new.
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
