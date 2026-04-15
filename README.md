@@ -52,31 +52,19 @@
 
 ## 🚀 Featured Projects
 
-### 🎫 AI Customer Support Ticket Classifier + Auto Reply System
-> An intelligent NLP-powered system that automatically classifies incoming customer support tickets by category and urgency, and generates contextual auto-replies — reducing manual effort and response time.
-
-`Python` `NLP` `Flask` `Machine Learning` `Text Classification`
-
----
 
 ### 🕵️ Job Fraud Detection System
 > A machine learning model that identifies fraudulent job postings using features like job description patterns, company info, and salary anomalies — helping job seekers stay safe online.
 
 `Python` `Scikit-learn` `NLP` `Classification` `Data Analysis`
 
+
+### 🎫 AI Customer Support Ticket Classifier + Auto Reply System
+> An intelligent NLP-powered system that automatically classifies incoming customer support tickets by category and urgency, and generates contextual auto-replies — reducing manual effort and response time.
+
+`Python` `NLP` `Flask` `Machine Learning` `Text Classification`
+
 ---
-
-### 🌾 Agriculture Learning Portal
-> A web-based educational portal designed to help farmers and students access agricultural knowledge, best practices, and crop guidance in a structured and accessible format.
-
-`Flask` `HTML/CSS` `Python` `Web Development`
-
----
-
-### 📚 Online Course Registration System
-> A full-featured student course registration platform with login, course listing, and enrollment management — built to simplify academic administration.
-
-`Python` `Flask` `SQL` `Web Development`
 
 ---
 
@@ -114,7 +102,6 @@
 <div align="center">
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square&logo=github)
-![GSSoC](https://img.shields.io/badge/GSSoC-2025%20Aspirant-orange?style=flat-square)
 ![AI%20DS](https://img.shields.io/badge/AI%20%26%20Data%20Science-B.Tech-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square)
 
@@ -128,7 +115,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-srinithithirumaran-181717?style=for-the-badge&logo=github)](https://github.com/srinithithirumaran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srinithi-maran)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](srinithithirumaran@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](srinithimaran2005@gmail.com)
 
 </div>
 
