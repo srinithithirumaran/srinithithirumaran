@@ -14,40 +14,13 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+Hey! I'm **Srinithi**, an AI & Data Science undergrad from Chennai 🇮🇳 who genuinely loves turning messy, real-world problems into clean, working ML systems.
 
-```python
-class Srinithi:
-    def __init__(self):
-        self.name        = "Srinithi T"
-        self.location    = "Chennai, India 🇮🇳"
-        self.degree      = "B.Tech — AI & Data Science (2023–2027)"
-        self.cgpa        = 8.5
+I've spent the past year building things that actually matter — a fraud detection pipeline that cut false negatives by **18%**, an agentic research assistant that automates multi-step workflows end-to-end, and a real-time multi-person tracking system using YOLOv8. I don't just train models; I ship them — with Docker, REST APIs, and proper evaluation pipelines.
 
-        self.stack = [
-            "Python", "SQL", "Java",
-            "TensorFlow", "PyTorch", "Scikit-learn",
-            "LangChain", "LangGraph", "HuggingFace",
-            "YOLOv8", "OpenCV", "Django REST",
-            "Docker", "Power BI", "Git"
-        ]
+Right now I'm deep into **Agentic AI** (LangGraph, LangChain, RAG systems) and I'm fascinated by how LLMs can be wired together to actually *do* things autonomously. When I'm not coding, I'm organising tech workshops, contributing to open source under GSSoC, or grinding Kaggle competitions.
 
-        self.currently_learning = [
-            "Advanced Agentic AI Architectures",
-            "MLOps & Model Deployment at Scale",
-            "Retrieval-Augmented Generation (RAG)"
-        ]
-
-        self.fun_fact = (
-            "I reduced fraud detection false-negatives by 18% "
-            "with Bidirectional LSTM + class-weight tuning 🔍"
-        )
-
-    def motto(self):
-        return "Build systems that deliver measurable impact — not just models."
-```
-
-<br clear="right"/>
+> *"Build systems that deliver measurable impact — not just models."*
 
 ---
 
