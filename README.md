@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srinithi%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20ML%20Systems%20That%20Deliver%20Real%20Impact&descAlignY=62&descSize=16" />
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -7,7 +8,7 @@
 
 <br/>
 
-
+<img src="https://komarev.com/ghpvc/?username=srinithithirumaran&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
 
 ---
 
