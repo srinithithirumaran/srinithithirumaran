@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=srinithithirumaran&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+
 
 ---
 
