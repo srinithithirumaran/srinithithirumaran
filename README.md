@@ -1,16 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srinithi%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20ML%20Systems%20That%20Deliver%20Real%20Impact&descAlignY=62&descSize=16" />
-
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Building+End-to-End+ML+Systems+%F0%9F%9A%80;LangChain+%7C+LangGraph+%7C+Agentic+AI+%F0%9F%A7%A0;NPTEL+ELITE+%E2%80%94+Top+25%25+Nationally+%F0%9F%8F%86" alt="Typing SVG" />
-  </a>
+
+<h2>Hi 👋, I'm Srinithi T</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Building+End-to-End+ML+Systems+%F0%9F%9A%80;LangChain+%7C+LangGraph+%7C+Agentic+AI+%F0%9F%A7%A0;NPTEL+ELITE+%E2%80%94+Top+25%25+Nationally+%F0%9F%8F%86" alt="Typing SVG" />
+
+<br/><br/>
+
+![Location](https://img.shields.io/badge/From-Chennai%2C%20India-blue?style=flat-square)
+![College](https://img.shields.io/badge/College-Jerusalem%20College%20of%20Engineering-6f42c1?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=srinithithirumaran&label=Profile+Views&color=70a5fd&style=flat-square)
+
 </div>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=srinithithirumaran&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-
----
 
 ## 🧑‍💻 About Me
 
@@ -209,5 +210,3 @@ Right now I'm deep into **Agentic AI** (LangGraph, LangChain, RAG systems) and I
 [![Email](https://img.shields.io/badge/Email-srinithimaran2005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srinithimaran2005@gmail.com)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
